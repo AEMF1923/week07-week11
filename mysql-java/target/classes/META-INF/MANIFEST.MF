@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: amoflo22
+Build-Jdk: 17.0.7
+Created-By: Maven Integration for Eclipse
+
